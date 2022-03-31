@@ -119,7 +119,7 @@ const Section = () => {
     }
 
     return (
-        <div className="mt-5">
+        <div className="m-5 p-5">
             <div className="main-section">
                 <div className="pruduct d-flex align-items-center justify-content-center row">
                     {
