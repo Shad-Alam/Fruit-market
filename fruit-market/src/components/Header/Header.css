@@ -1,0 +1,9 @@
+.heading{
+    font-size: 35px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: .15rem;
+    color: red;
+    margin: 50px;
+    margin-bottom: 30px;
+}

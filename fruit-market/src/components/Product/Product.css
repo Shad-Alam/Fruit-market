@@ -1,0 +1,43 @@
+
+.product{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.part-1{
+    padding: 3px;
+    border: 2px solid rgb(235, 227, 227);
+    border-radius: 10px;
+    width: 400px;
+    margin: 10px;
+}
+
+.title{
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: .15rem;
+}
+
+.price{
+    font-size: 17px;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: .13rem;
+}
+
+.btn-1{
+    background-color: red;
+    text-decoration: none;
+    border: 2px solid white;
+    border-radius: 30px;
+    color: white;
+    font-size: 18px;
+    padding: 10px 30px;
+    width: 100%;
+    letter-spacing: .13rem;
+}
+
+.space{
+    margin-left: 10px;
+}
