@@ -9,9 +9,9 @@
     border: 2px solid rgb(235, 227, 227);
     border-radius: 10px;
     width: 400px;
-    margin: 10px;
 }
 
+    
 .title{
     font-size: 22px;
     font-weight: bold;
@@ -40,4 +40,5 @@
 
 .space{
     margin-left: 10px;
+    font-size: 20px;
 }
