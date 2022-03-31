@@ -1,8 +1,10 @@
 import React, { useState } from 'react';
 import Product from '../Product/Product';
 import Selected from '../Selected/Selected';
+import avocado from './avocado.jpg';
 import banana from './banana.jpg';
 import cherry from './cherry.jpg';
+import delapassion from './de_la_passion.jpg';
 import dargon from './dragon.jpg';
 import dragonRed from './dragonred.jpg';
 import mango from './mango.jpg';
@@ -18,13 +20,6 @@ const fruits = [
         name: "Dragon",
         price: "39",
         img: `${dargon}`
-    },
-
-    {
-        key: 13,
-        name: "Water Melon",
-        price: "43",
-        img: `${Watermelon}`
     },
 
     {
@@ -51,14 +46,14 @@ const fruits = [
     {
         key: 43,
         name: "Mango",
-        price: "21",
+        price: "69",
         img: `${mango}`
     },
 
     {
         key: 33,
         name: "Banana",
-        price: "21",
+        price: "31",
         img: `${banana}`
     },
 
@@ -75,6 +70,27 @@ const fruits = [
         name: "Dragon Red",
         price: "81",
         img: `${dragonRed}`
+    },
+
+    {
+        key: 210,
+        name: "Avocado",
+        price: "119",
+        img: `${avocado}`
+    },
+
+    {
+        key: 211,
+        name: "De La Passion",
+        price: "61",
+        img: `${delapassion}`
+    },
+
+    {
+        key: 13,
+        name: "Water Melon",
+        price: "43",
+        img: `${Watermelon}`
     }
 ];
  
